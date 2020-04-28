@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTS_00000019999_StefanusDwitraLauwrendo_Ninja</string>
+    <string name="pilihClass">Pilih Class Yang Digunakan</string>
+    <string-array name="classGame">
+        <item>Intent</item>
+        <item>Bundle</item>
+        <item>AppCompatability</item>
+        <item>View</item>
+        <item>ImageView</item>
+        <item>AnimatorSet</item>
+        <item>ObjectAnimator</item>
+        <item>MediaPlayer</item>
+        <item>Handler</item>
+        <item>Button</item>
+    </string-array>
+</resources>
